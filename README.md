@@ -1,2 +1,2 @@
 # USA-Inflation-Prediction
-Deep Learning Multiple Regressin
+Deep Learning Multiple Regression
